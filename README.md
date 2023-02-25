@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Sulaimaan </h1>
-<img align="right" src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="400px" alt="preview"/>
+<img align="right" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="400px" alt="preview"/>
   
 
 <div>
