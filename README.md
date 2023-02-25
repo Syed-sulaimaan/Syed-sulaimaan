@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syed-sulaimaan)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=muskan-k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="muskan-k's GitHub stats" />
 <!--
 **Syed-sulaimaan/syed-sulaimaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
