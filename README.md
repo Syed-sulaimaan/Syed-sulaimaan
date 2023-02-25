@@ -33,6 +33,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="react" width="40" height="40"/> </a> 
+</p>
 
 <!--
 - 🔭 I’m currently working on UI Designing
