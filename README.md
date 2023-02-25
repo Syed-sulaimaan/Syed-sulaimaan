@@ -4,16 +4,13 @@
 
 <div>
 <details>
-  <summary>👩🏻 More about me</summary>
-  <p>
+  <summary> 🦸‍♂️ More about me</summary>
 
 - 👩🏻‍🎓 BCA in Gaming and Graphics, Presidency University
 
 - 💬 I'm into **Design & Development**
 
 </details>
-   <p align="left">
-</p>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=syed-sulaimaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="muskan-k's GitHub stats" />
