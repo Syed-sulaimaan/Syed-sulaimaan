@@ -1,6 +1,10 @@
 ### Hi there 👋
+<img align="right" src="[https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif](https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif)" width="400px" alt="preview"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syed-sulaimaan)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=syed-sulaimaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="muskan-k's GitHub stats" />
+
+
+<a href="http://www.github.com/syed-sulaimaan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-k&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--
 **Syed-sulaimaan/syed-sulaimaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
