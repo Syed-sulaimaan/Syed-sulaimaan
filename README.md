@@ -2,8 +2,8 @@
 <img align="right" src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="400px" alt="preview"/>
   
   
- <div>
-###<details>
+###<div>
+<details>
   <summary>👩🏻 More about me</summary>
 
 - 👩🏻‍🎓 BCA in Gaming and Graphics, Presidency University
