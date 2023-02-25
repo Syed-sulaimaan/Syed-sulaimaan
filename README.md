@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="[https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif](https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif)" width="400px" alt="preview"/>
+<img align="right" src="https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif" width="400px" alt="preview"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syed-sulaimaan)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=syed-sulaimaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="muskan-k's GitHub stats" />
 
