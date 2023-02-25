@@ -3,7 +3,7 @@
   
   
  <div>
-<details>###
+###<details>
   <summary>👩🏻 More about me</summary>
 
 - 👩🏻‍🎓 BCA in Gaming and Graphics, Presidency University
