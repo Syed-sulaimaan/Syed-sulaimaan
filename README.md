@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="400px" alt="preview"/>
   
   
-###<div>
+<div size="small">
 <details>
   <summary>👩🏻 More about me</summary>
 
